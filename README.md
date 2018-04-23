@@ -4,8 +4,8 @@ This is the code repository for [Microsoft Operations Management Suite Cookbook]
 Virtual and Augmented Reality 
 ## Instructions and Navigation
 All of the code is organized into folders. Each folder starts with a number followed by the application name. For example, Chapter02.
-Chapter 3 and Chapter 5 has code files and there are 9 chpts in all:
-Chapters 1, 2, 4, 6, 7, 8, 9 do not contain any code files.
+Chapter 03 and Chapter 05 has code files and there are 9 chpts in all:
+Chapters 01, 02, 04, 06, 07, 08, 09 do not contain any code files.
 
 
 
