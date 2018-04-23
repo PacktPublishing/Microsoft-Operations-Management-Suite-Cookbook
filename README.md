@@ -31,8 +31,3 @@ workflow Start-OnPremVM
 * [Azure for Architects](https://www.packtpub.com/virtualization-and-cloud/azure-architects?utm_source=github&utm_medium=repository&utm_campaign=9781788397391)
 
 * [Learning Microsoft Azure Storage](https://www.packtpub.com/big-data-and-business-intelligence/learning-microsoft-azure-storage?utm_source=github&utm_medium=repository&utm_campaign=9781785884917)
-
-* []()
-
-### Suggestions and Feedback
-[Click here](https://docs.google.com/forms/d/e/1FAIpQLSe5qwunkGf6PUvzPirPDtuy1Du5Rlzew23UBp2S-P3wB-GcwQ/viewform) if you have any feedback or suggestions.
